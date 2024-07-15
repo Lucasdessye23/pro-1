@@ -1,4 +1,5 @@
-import math
-pi = math.pi
-result = round(pi, 3)
-print(result)
+number = 12
+if number % 2 == 0:
+    print("Even")
+else:
+    print("odd")
