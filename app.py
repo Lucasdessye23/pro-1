@@ -1,2 +1,4 @@
-course = "Course for beginner's"
-print(course[0:])
+import math
+pi = math.pi
+result = round(pi, 3)
+print(result)
